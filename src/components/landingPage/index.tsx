@@ -1,10 +1,13 @@
+import NavBar from "..";
 
 
 const LandingPage = () => {
 
     return (<>
 
-        Welcome! to miniBank
+        <NavBar />
+
+
 
     </>)
 }
